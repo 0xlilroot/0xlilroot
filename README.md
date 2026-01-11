@@ -8,7 +8,7 @@
 
 <div align="center">
 
-📚🎧 Security Analyst @ Insight  
+📚🎧 Security Engineer @ Insight  
 🗒️ᝰ.ᐟ Currently working on Platform Engineering, Hardware Security and Tool Development   
 📱💬 Hit me up: <a href="https://x.com/lilroot_">@lilroot_</a>  
 sheノher 
